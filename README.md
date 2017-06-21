@@ -1,6 +1,8 @@
 Mastodon
 ========
 
+## TODO: 需要同步主库并处理 https的 full_asset_url Rails.configuration.x.use_s3 问题,现在的线上重启就会错
+
 [![Build Status](http://img.shields.io/travis/tootsuite/mastodon.svg)][travis]
 [![Code Climate](https://img.shields.io/codeclimate/github/tootsuite/mastodon.svg)][code_climate]
 
